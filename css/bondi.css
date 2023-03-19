@@ -1,0 +1,12 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* start section one  */
+@media(max-width: 768px) { 
+    .section1{
+        margin-bottom: 120px;
+        margin-top: 65px;
+    }
+} 
+/* start section one  */
